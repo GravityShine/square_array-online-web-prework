@@ -1,4 +1,4 @@
 def square_array(array)
-array.each do |x|
-  puts "This #{x}"
+array.each do ||
+
 end
